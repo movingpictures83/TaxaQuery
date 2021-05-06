@@ -1,0 +1,2 @@
+Prefix plugins/TaxaQuery/example
+Plugin TaxaQuery inputfile parameters.taxaquery.txt outputfile taxa.query.csv
